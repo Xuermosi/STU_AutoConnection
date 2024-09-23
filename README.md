@@ -12,6 +12,8 @@ https://blog.csdn.net/weixin_44621423/article/details/135747027?spm=1001.2014.30
 
 
 **有人问怎么换成自己的号**
+
+
 把getlink.py文件中的这段代码中的用户名和密码换成自己的再进行编译
 post_data = {
     'opr': 'pwdLogin',
