@@ -28,8 +28,8 @@ post_header = {
 
 post_data = {
     'opr': 'pwdLogin',
-    'userName': '你自己的账号',
-    'pwd': '你自己的密码',
+    'userName': 'UserName',
+    'pwd': 'Password',
     'ipv4or6': '',
     'rememberPwd': '0',
 }
